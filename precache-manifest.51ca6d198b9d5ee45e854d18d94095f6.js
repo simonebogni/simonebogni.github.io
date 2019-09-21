@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6ce320128c1dc09264114c9c0c4c346",
+    "revision": "a6a63e9549c377ec2fbc2a5946094abc",
     "url": "/index.html"
   },
   {
-    "revision": "c4bbc883d71ebf63eb1e",
+    "revision": "89fb07349ef70413ecc4",
     "url": "/static/css/2.ae4c5fb5.chunk.css"
   },
   {
-    "revision": "cc865b807bca4b08044c",
-    "url": "/static/css/main.ae4a7fce.chunk.css"
+    "revision": "2738c4d9e3b76603111d",
+    "url": "/static/css/main.4abd46a9.chunk.css"
   },
   {
-    "revision": "c4bbc883d71ebf63eb1e",
-    "url": "/static/js/2.b139f7d0.chunk.js"
+    "revision": "89fb07349ef70413ecc4",
+    "url": "/static/js/2.39b047fc.chunk.js"
   },
   {
-    "revision": "cc865b807bca4b08044c",
-    "url": "/static/js/main.3209598d.chunk.js"
+    "revision": "2738c4d9e3b76603111d",
+    "url": "/static/js/main.008acba8.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "836eb0458b63c42cb2e20aa3b6eadc04",
     "url": "/static/media/Apache-Ant-logo2.836eb045.svg"
+  },
+  {
+    "revision": "43e4dc70c3a4a33b5e3bcb7c7847e8fe",
+    "url": "/static/media/JavaFX_Logo.43e4dc70.png"
   },
   {
     "revision": "921e097420a26d876c0d63d7f0bf5d4b",
