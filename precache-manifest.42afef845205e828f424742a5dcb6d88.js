@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71f514c0e806dc31b2cfec4608582dc9",
+    "revision": "b6ce320128c1dc09264114c9c0c4c346",
     "url": "/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.ae4c5fb5.chunk.css"
   },
   {
-    "revision": "617ddeec421e5ae8ddb2",
-    "url": "/static/css/main.e5ce2d68.chunk.css"
+    "revision": "cc865b807bca4b08044c",
+    "url": "/static/css/main.ae4a7fce.chunk.css"
   },
   {
     "revision": "c4bbc883d71ebf63eb1e",
     "url": "/static/js/2.b139f7d0.chunk.js"
   },
   {
-    "revision": "617ddeec421e5ae8ddb2",
+    "revision": "cc865b807bca4b08044c",
     "url": "/static/js/main.3209598d.chunk.js"
   },
   {
@@ -36,6 +36,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Openstreetmap_logo.3fd05ad7.svg"
   },
   {
+    "revision": "f3ceb2a0b86897c06486a65123fce866",
+    "url": "/static/media/cooking.f3ceb2a0.jpg"
+  },
+  {
     "revision": "4f1b7af5c0bae6aae85c3e7ba9401a85",
     "url": "/static/media/gb.4f1b7af5.svg"
   },
@@ -50,5 +54,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "46450e285451614b69b11802492f5ba1",
     "url": "/static/media/logo.46450e28.svg"
+  },
+  {
+    "revision": "8f85f0c604aed6b9390695a9a8d831d4",
+    "url": "/static/media/travelling.8f85f0c6.jpeg"
   }
 ]);
