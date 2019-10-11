@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.f05c3986.chunk.css",
-    "main.js": "/static/js/main.88c8dc6f.chunk.js",
-    "main.js.map": "/static/js/main.88c8dc6f.chunk.js.map",
+    "main.css": "/static/css/main.68d82e4a.chunk.css",
+    "main.js": "/static/js/main.084e0dd3.chunk.js",
+    "main.js.map": "/static/js/main.084e0dd3.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/css/2.ae4c5fb5.chunk.css": "/static/css/2.ae4c5fb5.chunk.css",
-    "static/js/2.766ea185.chunk.js": "/static/js/2.766ea185.chunk.js",
-    "static/js/2.766ea185.chunk.js.map": "/static/js/2.766ea185.chunk.js.map",
+    "static/js/2.db45219e.chunk.js": "/static/js/2.db45219e.chunk.js",
+    "static/js/2.db45219e.chunk.js.map": "/static/js/2.db45219e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a5f5847ed1efefbd290b4647dcbbdb6e.js": "/precache-manifest.a5f5847ed1efefbd290b4647dcbbdb6e.js",
+    "precache-manifest.04012a4aac06f3cc871e661ff4d4aa0b.js": "/precache-manifest.04012a4aac06f3cc871e661ff4d4aa0b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.ae4c5fb5.chunk.css.map": "/static/css/2.ae4c5fb5.chunk.css.map",
-    "static/css/main.f05c3986.chunk.css.map": "/static/css/main.f05c3986.chunk.css.map",
+    "static/css/main.68d82e4a.chunk.css.map": "/static/css/main.68d82e4a.chunk.css.map",
     "static/media/Apache-Ant-logo2.svg": "/static/media/Apache-Ant-logo2.836eb045.svg",
     "static/media/JavaFX_Logo.png": "/static/media/JavaFX_Logo.43e4dc70.png",
     "static/media/Maven_logo.svg": "/static/media/Maven_logo.921e0974.svg",
@@ -21,6 +21,7 @@
     "static/media/gb.svg": "/static/media/gb.4f1b7af5.svg",
     "static/media/il.svg": "/static/media/il.f62b32f0.svg",
     "static/media/it.svg": "/static/media/it.8d15de04.svg",
-    "static/media/logo.svg": "/static/media/logo.46450e28.svg"
+    "static/media/logo.svg": "/static/media/logo.46450e28.svg",
+    "static/media/swing.png": "/static/media/swing.6b240130.png"
   }
 }
