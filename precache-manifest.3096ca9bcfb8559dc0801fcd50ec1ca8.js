@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a965cfdeed63d4f7acc78aedc87ef6d",
+    "revision": "d31a0e1c8a0a5efca5d104d8c9538ecc",
     "url": "/index.html"
   },
   {
-    "revision": "d5ba44de720685289983",
-    "url": "/static/css/2.ae4c5fb5.chunk.css"
+    "revision": "2b316e9ae73ce3e6f7ca",
+    "url": "/static/css/2.835b6f6c.chunk.css"
   },
   {
-    "revision": "96c4aa959eb52531eec5",
-    "url": "/static/css/main.36b5907a.chunk.css"
+    "revision": "ad75f8dd87174599c620",
+    "url": "/static/css/main.66c82caf.chunk.css"
   },
   {
-    "revision": "d5ba44de720685289983",
-    "url": "/static/js/2.ca7db768.chunk.js"
+    "revision": "2b316e9ae73ce3e6f7ca",
+    "url": "/static/js/2.e43de0ac.chunk.js"
   },
   {
-    "revision": "96c4aa959eb52531eec5",
-    "url": "/static/js/main.d57254ff.chunk.js"
+    "revision": "ad75f8dd87174599c620",
+    "url": "/static/js/main.1a05797a.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -38,6 +38,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3fd05ad72425b636a7df9df944118be5",
     "url": "/static/media/Openstreetmap_logo.3fd05ad7.svg"
+  },
+  {
+    "revision": "cdf5b5e1a8dd51c1130b4d4a86048b8a",
+    "url": "/static/media/PHP-logo.cdf5b5e1.svg"
+  },
+  {
+    "revision": "d884e9b594ce93589648a073edf60cea",
+    "url": "/static/media/cakephp-logo.d884e9b5.svg"
   },
   {
     "revision": "f3ceb2a0b86897c06486a65123fce866",
